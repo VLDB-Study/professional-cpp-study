@@ -10,7 +10,7 @@
   - [TBD](slides/)
 
 - Presenter 2: 안미진
-  - [TBD](slides/)
+  - [Google C++ Style Guide](slides/ch1-google-cpp-style-guide.pdf)
   
 - Presenter 3: 박종혁
   - [TBD](slides/)
