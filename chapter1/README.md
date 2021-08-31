@@ -13,4 +13,4 @@
   - [Google C++ Style Guide](slides/ch1-google-cpp-style-guide.pdf)
   
 - Presenter 3: 박종혁
-  - [TBD](slides/)
+  - [Namespace](slides/ch1-namespace.pdf)
