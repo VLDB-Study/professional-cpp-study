@@ -7,9 +7,5 @@
 
 ## Short Presentation
 
-- Presenter 1: 오기환
+- Presenter: 오기환
   - [TBD](slides/)
-
-- Presenter 2: 안미진
-  - [TBD](slides/)
-  

@@ -6,9 +6,5 @@
 
 ## Short Presentation
 
-- Presenter 1: 오기환
+- Presenter: 오기환
   - [TBD](slides/)
-
-- Presenter 2: 박종혁
-  - [TBD](slides/)
-  
