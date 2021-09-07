@@ -3,6 +3,7 @@
 ## Main Presentation 
 
 - Presenter: 안미진
+ - [String and String View](slides/ch2-string-and-string-view.pdf)
 
 ## Short Presentation
 

@@ -3,7 +3,7 @@
 ## Main Presentation 
 
 - Presenter: 박종혁
-  - [coidng-style](slides/ch3-coding-style.pdf)
+  - [Coding Style](slides/ch3-coding-style.pdf)
 
 ## Short Presentation
 

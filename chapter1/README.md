@@ -6,8 +6,7 @@
 
 ## Short Presentation
 
-- Presenter 1: 오기환
-  - [TBD](slides/)
+- Presenter 1: 오기환 💸
 
 - Presenter 2: 안미진
   - [Google C++ Style Guide](slides/ch1-google-cpp-style-guide.pdf)
