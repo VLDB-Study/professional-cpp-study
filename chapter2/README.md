@@ -7,5 +7,4 @@
 
 ## Short Presentation
 
-- Presenter: 오기환
-  - [TBD](slides/)
+- Presenter: 오기환 💸

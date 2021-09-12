@@ -4,8 +4,3 @@
 
 - Presenter: 박종혁
   - [Coding Style](slides/ch3-coding-style.pdf)
-
-## Short Presentation
-
-- Presenter: 오기환
-  - [TBD](slides/)
