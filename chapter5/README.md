@@ -8,4 +8,4 @@
 ## Short Presentation
 
 - Presenter: 박종혁
-  - [TBD](slides/ch5-design-patterns-basic.pdf)
+  - [Design Patterns (basic)](slides/ch5-design-patterns-basic.pdf)
