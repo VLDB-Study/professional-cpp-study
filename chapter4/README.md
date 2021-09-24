@@ -4,8 +4,3 @@
 
 - Presenter: 안미진
   - [Designing Professional C++ Programs](slides/ch4-professional-cpp-design.pdf)
-
-## Short Presentation
-
-- Presenter: 박종혁
-  - [TBD](slides/)
