@@ -3,7 +3,7 @@
 ## Main Presentation 
 
 - Presenter: 박종혁
-  - [메모리 관리](slides/)
+  - [메모리 관리](slides/ch7-memory-mgmt.pdf)
 
 ## Short Presentation
 
