@@ -3,7 +3,7 @@
 ## Main Presentation 
 
 - Presenter: 오기환
-  - [TBD](slides/)
+  - [클래스와 객체 마스터하기](slide/ch9.pdf)
 
 ## Short Presentation
 
