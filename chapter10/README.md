@@ -11,4 +11,4 @@
   - [Clean Architecture](slides/clean_architecture.md)
 
 - Presenter: 박종혁
-  - [TBD](slides)
+  - [Override Check](slides/ch10-check-override.pdf)
