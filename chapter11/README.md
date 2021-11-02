@@ -8,4 +8,4 @@
 ## Short Presentation
 
 - Presenter: 박종혁
-  - [Singleton Pattern](slides/ch11-singleton-patterns.pdf)
+  - [Singleton Pattern](slides/ch11-singleton-pattern.pdf)
